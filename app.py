@@ -7,9 +7,10 @@ cars = [
     {'id': 1, "name": 'Baleno'},
     {'id':2, "name": 'Thar'},
     {'id':3, "name": "Ertiga"},
-    {'id':4, "name":"carens"} 
+    {'id':4, "name":"carens"},
+    {'id':5, "name":"punch"}
 ]
-next_car_id = 5
+next_car_id = 6
 
 ###### GET all cars ###################################
 
